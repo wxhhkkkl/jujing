@@ -1,0 +1,15 @@
+# 敏感信息 — 服务器凭据，绝不提交
+.env
+*.env
+!.env.example
+
+# 操作系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 日志与临时文件
+*.log
+*.tmp
